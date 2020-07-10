@@ -28,4 +28,10 @@ docs/site/
 # environment.
 Manifest.toml
 
+# Anything in the ref folder
+ref\*
+
+Any of the outputs
+output\*
+
 # End of https://www.toptal.com/developers/gitignore/api/julia
